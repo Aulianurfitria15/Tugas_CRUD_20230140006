@@ -7,5 +7,6 @@ import java.util.Optional;
 
 public interface KtpRepository extends JpaRepository<Ktp, Integer> {
     Optional<Ktp> findByNomorKtp(String nomorKtp);
+
     boolean existsByNomorKtp(String nomorKtp);
 }
