@@ -1,6 +1,6 @@
 DATABASE:
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bd1ad1a9-c1c9-47ca-986f-015c917c8e3e" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6a7c4609-3377-4ce0-894b-4898354c7263" />
 
 HALAMAN AWAL:
 
@@ -27,15 +27,14 @@ POSTMAN:
 
 POST:
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ce102ff2-0ed2-4178-9d13-127da1821a20" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b4a61b3d-fdd5-43ad-a706-47285da772f3" />
 
 GET:
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/55549273-cac4-495b-82bd-b60f789a9976" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/246c8b96-dba3-448e-bff1-68718e99550f" />
 
 GET by ID:
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5b24d985-68e9-4775-9e53-20522f4be5ec" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/122587e3-1640-457e-bee9-80ab3f2625ff" />
 
 PUT:
 
@@ -43,5 +42,5 @@ PUT:
 
 DELETE:
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9f563c81-5c17-42b9-8536-04dcd3c596ca" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ac88ba37-7573-4914-82f0-76fc9a0ca2ba" />
 
